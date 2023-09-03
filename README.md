@@ -1,4 +1,4 @@
-<img src ="https://m.facebook.com/story.php?story_fbid=pfbid0mgzGPaSCDqE9RWgMWKiqxANwQ138Ad6R7yGMEQGRdjhD4hQiThwnbL4ptzkVvWtTl&id=100014685128202&mibextid=2JQ9oc "height =" 60px">
+
 # Hi there 👋
 
 **KamruzzamanShiblu/KamruzzamanShiblu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
