@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on Facebook 
 - 🌱 I’m currently learning javascript
 - 🤔 I’m looking for help with others 
 - 💬 Ask me about my self and future plane 
